@@ -1,0 +1,20 @@
+{
+  "product": {
+    "repository": "ui-text-translation-key-manager",
+    "title": "UI文言・翻訳キー管理"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "UI文言・翻訳キー管理 正常ケース",
+      "source": "source-ok",
+      "key": "key-ok",
+      "defaultText": "defaultText-ok",
+      "locale": "locale-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "unusedState": "ready"
+    }
+  ]
+}
