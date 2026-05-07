@@ -1,0 +1,24 @@
+{
+  "name": "ui-text-translation-key-manager",
+  "displayName": "UI文言・翻訳キー管理",
+  "version": "0.1.0",
+  "publisher": "sunmax0731",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:ui-text-translation-key-manager.open"
+  ],
+  "main": "./src/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "ui-text-translation-key-manager.open",
+        "title": "UI文言・翻訳キー管理"
+      }
+    ]
+  }
+}

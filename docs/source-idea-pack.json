@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\VSCodeExtension\\created_idea_006_ui-text-translation-key-manager",
+  "zip": "D:\\AI\\VSCodeExtension\\created_idea_006_ui-text-translation-key-manager\\idea_006_ui-text-translation-key-manager.zip",
+  "rank": 36,
+  "domain": "VSCodeExtension",
+  "ideaNo": 6,
+  "title": "UI文言・翻訳キー管理",
+  "overview": "UIテキスト抽出、i18nキー管理、翻訳表編集を行う。入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+  "problem": "文言と翻訳キーがコードに埋もれて保守しづらい。",
+  "differentiation": "一覧編集と未使用キー検査を同じビューにする。"
+}
